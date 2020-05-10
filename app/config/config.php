@@ -13,4 +13,7 @@
 
     // Site name
     define('SITENAME', 'MyMVC');
+
+    // App version
+    define('APPVERSION', '1.0.0' )
 ?>
